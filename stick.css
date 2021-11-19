@@ -21,10 +21,6 @@ $speed: 5s;
         from { top: 1em; }
         to   { top: -2em; }
     }
-  //@keyframes dotTop {
-    //    from { top: 10em; }
-      //  to   { top: -1em; }
-    //}
 
     @keyframes dotLeft {
         from { left: -10em; }
